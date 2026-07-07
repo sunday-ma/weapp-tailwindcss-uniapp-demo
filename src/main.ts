@@ -2,6 +2,7 @@ import * as Pinia from 'pinia'
 import { createPersistedState } from 'pinia-plugin-persistedstate'
 import { createSSRApp } from 'vue'
 import App from './App.vue'
+import './app.css'
 
 export function createApp() {
   const app = createSSRApp(App)

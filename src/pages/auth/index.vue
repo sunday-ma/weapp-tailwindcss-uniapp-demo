@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <view class="flex flex-col items-center justify-center h-screen">
+  <view class="flex flex-col items-center justify-center h-screen bg-amber-300/50">
     <view class="flex items-center justify-center text-[28px] icon">
       <view class="i-ant-design-loading-3-quarters-outlined" />
     </view>
